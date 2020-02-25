@@ -1,5 +1,4 @@
-# **XSS-payloads**
-### XSS payload scheme
+# **XSS-payloads scheme**
 
 Aside from the classic XSS payload <script>alert(1)</script> and source based ones like 
 ```
