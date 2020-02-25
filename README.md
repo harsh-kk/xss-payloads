@@ -1,7 +1,7 @@
 # **XSS-payloads**
 ### XSS payload scheme
 
-Aside from the classic XSS payload <script>alert(1)</script> and source based ones like <a href=x>, we can start building payloads using the following simple scheme:
+Aside from the classic XSS payload <script>alert(1)</script> and source based ones like "<a href=x>",we can start building payloads using the following simple scheme:
 ```
 <tag handler=code>
 ````
